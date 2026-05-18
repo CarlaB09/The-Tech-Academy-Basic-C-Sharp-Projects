@@ -1,0 +1,7 @@
+D:\Basic_C#_Programs\Writing and Running Code in C# Assignment\obj\Debug\Writing and Running Code in C# Assignment.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\Writing and Running Code in C# Assignment\obj\Debug\Writing and Running Code in C# Assignment.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\Writing and Running Code in C# Assignment\bin\Debug\Writing and Running Code in C# Assignment.exe.config
+D:\Basic_C#_Programs\Writing and Running Code in C# Assignment\bin\Debug\Writing and Running Code in C# Assignment.exe
+D:\Basic_C#_Programs\Writing and Running Code in C# Assignment\bin\Debug\Writing and Running Code in C# Assignment.pdb
+D:\Basic_C#_Programs\Writing and Running Code in C# Assignment\obj\Debug\Writing and Running Code in C# Assignment.exe
+D:\Basic_C#_Programs\Writing and Running Code in C# Assignment\obj\Debug\Writing and Running Code in C# Assignment.pdb
